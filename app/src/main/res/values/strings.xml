@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github Repositories Loader</string>
+    <string name="screen_home_title">Github Public Repositories</string>
+    <string name="project_card_hide_title_button">Hide project</string>
+    <string name="project_card_stars">Stars</string>
+    <string name="screen_home_hidden_project_info_message">%s was hidden</string>
+    <string name="screen_home_hidden_project_error_info_message">There was an error removing the repository</string>
+    <string name="screen_detailed_project_title">Detailed GH Repository Info</string>
+    <string name="open_in_browser_button_text">Open project in browser</string>
+    <string name="search_projects_hint">Type project name</string>
+    <string name="network_error">There was an error due to connectivity issues, please check your internet connection and try again.</string>
+    <string name="generic_error_loading_projects">There was an error loading the project :( Please try again</string>
+    <string name="empty_description_fallback">The repo owner still did not add a project description :(</string>
+</resources>
