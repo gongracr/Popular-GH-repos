@@ -1,10 +1,8 @@
-<p align="center"><img src="https://github.com/gongracr/RandomUserGallery/assets/2468164/c80e2538-2815-40e2-9fbd-603f48ab884e" alt="random user icon" width="200" height="200" style="text-align: center"/></p>
-
 # GH Repositories Loader
 
 This is a demo app to showcase how to display a paged list of public Github projects, sorted by number of stars in descending order using the [Github REST API](https://docs.github.com/en/rest). The app was designed and implemented trying to follow modern Android infrastructure, best development practices like Clean architecture and state of the art technical tools like Compose, Kotlin Flow and Hilt.
 
-<img src="" width="240" align="right" hspace="10" >
+<img src="https://github.com/gongracr/Popular-GH-repos/assets/2468164/e94094be-b644-4325-9ceb-b634b07984d7" width="240" align="right" hspace="10" >
 
 ## Main features 📲
 - Pagination of endless items using androidx paging3 in a list gallery via Remote mediator
@@ -35,4 +33,4 @@ This is a demo app to showcase how to display a paged list of public Github proj
   - Hilt - dependency injection
   - Full [App Modularization](https://developer.android.com/topic/modularization). Internal data and domain purposes and responsibilities spread over several modules (`core` for the business/domain logic, `network` for interaction with REST api services and `persistence` for local storage).
 
-<p align="center"><img src="" width="1200" /></p>
+<p align="center"><img src="https://github.com/gongracr/Popular-GH-repos/assets/2468164/eedc74b2-bb66-43c6-b046-c23dd66f7bf7" width="1200" /></p>
